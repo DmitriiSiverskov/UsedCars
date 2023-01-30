@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc6fda361f84159bc41d69da5ef6675, type: 3}
+  m_Name: "\u0425\u044D\u0442\u0447\u0431\u0435\u043A 2 (F20_21)"
+  m_EditorClassIdentifier: 
+  _modification:
+  - "116i 1.5 MT (109 \u043B.\u0441.)"
+  - "116d 1.5d AT (116 \u043B.\u0441.)"
+  - "116d 1.5d MT (116 \u043B.\u0441.)"
+  - "118i 1.5 MT (136 \u043B.\u0441.)"
+  - "118i 1.5 AT (136 \u043B.\u0441.)"
+  - "114d 1.6d MT (95 \u043B.\u0441.)"
+  - "114d 1.6d MT (95 \u043B.\u0441.)"
+  - "114i 1.6 MT (102 \u043B.\u0441.)"
+  - "116d EfficientDynamics Edition 1.6d MT (116 \u043B.\u0441.)"
+  - "118i 1.6 MT (136 \u043B.\u0441.)"
+  - "118i 1.6 AT (136 \u043B.\u0441.)"
+  - "118i 1.6 MT (170 \u043B.\u0441.)"
+  - "118i 1.6 AT (170 \u043B.\u0441.)"
+  - "120i 1.6 AT (177 \u043B.\u0441.)"
+  - "120i 1.6 MT (177 \u043B.\u0441.)"
+  - "116d 2.0d AT (116 \u043B.\u0441.)"
+  - "116d 2.0d MT (116 \u043B.\u0441.)"
+  - "118d 2.0d MT (150 \u043B.\u0441.)"
+  - "118d 2.0d MT (143 \u043B.\u0441.) 4WD"
+  - "118d 2.0d AT (143 \u043B.\u0441.)"
+  - "118d 2.0d MT (143 \u043B.\u0441.)"
+  - "118d 2.0d AT (150 \u043B.\u0441.)"
+  - "118d xDrive 2.0d MT (150 \u043B.\u0441.) 4WD"
+  - "120d 2.0d MT (184 \u043B.\u0441.) 4WD"
+  - "120d 2.0d MT (184 \u043B.\u0441.)"
+  - "120d 2.0d AT (184 \u043B.\u0441.)"
+  - "120d xDrive 2.0d AT (190 \u043B.\u0441.) 4WD"
+  - "120d 2.0d AT (190 \u043B.\u0441.)"
+  - "120d 2.0d MT (190 \u043B.\u0441.)"
+  - "125d 2.0d AT (224 \u043B.\u0441.)"
+  - "120i 2.0 MT (184 \u043B.\u0441.)"
+  - "120i 2.0 AT (184 \u043B.\u0441.)"
+  - "125i 2.0 MT (218 \u043B.\u0441.)"
+  - "125d 2.0d AT (218 \u043B.\u0441.)"
+  - "125d 2.0d MT (218 \u043B.\u0441.)"
+  - "125i 2.0 AT (218 \u043B.\u0441.)"
+  - "125i 2.0 AT (224 \u043B.\u0441.)"
+  - "M135i 3.0 AT (320 \u043B.\u0441.)"
+  - "M135i xDrive 3.0 AT (320 \u043B.\u0441.) 4WD"
+  - "M135i 3.0 MT (320 \u043B.\u0441.)"
+  - "M135i 3.0 MT (326 \u043B.\u0441.)"
+  - "M135i xDrive 3.0 AT (326 \u043B.\u0441.) 4WD"
+  - "M140i 3.0 MT (340 \u043B.\u0441.)"
+  - "M140i 3.0 AT (340 \u043B.\u0441.)"
+  - "M140i xDrive 3.0 AT (340 \u043B.\u0441.) 4WD"

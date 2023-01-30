@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 085ac9b0298841a681d88812d0906425, type: 3}
+  m_Name: Hyundai
+  m_EditorClassIdentifier: 
+  _generation:
+  - {fileID: 11400000, guid: 7fa36413d7543374caa6cdfd7ab796d5, type: 2}
+  - {fileID: 11400000, guid: 30dbfce65689edf4e9a43252a00f4318, type: 2}
+  - {fileID: 11400000, guid: 28b0f9a404fd90540ac858b0bac1e221, type: 2}
+  - {fileID: 11400000, guid: 11dd0cdc0a4b0394b8654884139f720e, type: 2}
+  - {fileID: 11400000, guid: c772c11e8db19cf40ac2185b3596014f, type: 2}
+  - {fileID: 11400000, guid: 9e54c1aa8170b5748840c16598a6d5fd, type: 2}
+  - {fileID: 11400000, guid: 4b593ec80d53b6b48a26598874313d80, type: 2}

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc6fda361f84159bc41d69da5ef6675, type: 3}
+  m_Name: "\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B Focus 3"
+  m_EditorClassIdentifier: 
+  _modification:
+  - "1.0 MT (100 \u043B.\u0441.)"
+  - "1.0 AT (125 \u043B.\u0441.)"
+  - "1.0 MT (125 \u043B.\u0441.)"
+  - "1.5d MT (95 \u043B.\u0441.)"
+  - "1.5d MT (105 \u043B.\u0441.)"
+  - "1.5d AMT (120 \u043B.\u0441.)"
+  - "1.5d MT (120 \u043B.\u0441.)"
+  - "1.5 MT (150 \u043B.\u0441.)"
+  - "1.5 AT (150 \u043B.\u0441.)"
+  - "1.5 MT (182 \u043B.\u0441.)"
+  - "1.5 AT (182 \u043B.\u0441.)"
+  - "1.6d MT (95 \u043B.\u0441.)"
+  - "1.6d MT (115 \u043B.\u0441.)"
+  - "1.6 MT (85 \u043B.\u0441.)"
+  - "1.6d MT (95 \u043B.\u0441.)"
+  - "1.6d MT (105 \u043B.\u0441.)"
+  - "1.6 AMT (105 \u043B.\u0441.)"
+  - "1.6 MT (105 \u043B.\u0441.)"
+  - "1.6 AMT (125 \u043B.\u0441.)"
+  - "1.6 MT (150 \u043B.\u0441.)"
+  - "1.6 MT (125 \u043B.\u0441.)"
+  - "1.6 MT (182 \u043B.\u0441.)"
+  - "2.0d AMT (115 \u043B.\u0441.)"
+  - "2.0d MT (140 \u043B.\u0441.)"
+  - "2.0d AMT (140 \u043B.\u0441.)"
+  - "2.0d AMT (150 \u043B.\u0441.)"
+  - "2.0d MT (150 \u043B.\u0441.)"
+  - "2.0 MT (150 \u043B.\u0441.)"
+  - "2.0 AMT (150 \u043B.\u0441.)"
+  - "2.0d MT (163 \u043B.\u0441.)"
+  - "2.0d AMT (163 \u043B.\u0441.)"

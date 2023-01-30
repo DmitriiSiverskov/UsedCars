@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb8bd76468d542889621d1a871090eee, type: 3}
+  m_Name: Suzuki
+  m_EditorClassIdentifier: 
+  _mark: Suzuki
+  _model: {fileID: 11400000, guid: 7b35149e7e8e0db48a8e786c955c7a9b, type: 2}
+  _generation: {fileID: 11400000, guid: 95c6486901d2f2849880e20b495056cf, type: 2}
+  _modification:
+  - {fileID: 11400000, guid: a95b519f87b377d46ae5e748a02b028e, type: 2}
+  - {fileID: 11400000, guid: 528228ea9dbe7324d9eb5859a6e7889f, type: 2}
+  - {fileID: 11400000, guid: 0e18ddc32320cbb47b015e04cb72fb3f, type: 2}
+  - {fileID: 11400000, guid: d9e068a237b65e947b78ff43daf07c8e, type: 2}
+  - {fileID: 11400000, guid: 2c27c066354ded147bf080ff73b50026, type: 2}
+  - {fileID: 11400000, guid: dc9b48b0485dbda4995dc6d1bf0666a2, type: 2}
+  - {fileID: 11400000, guid: ec27dd0cb05b26c40b62a2631dd2e463, type: 2}
+  - {fileID: 11400000, guid: 0fe39ea8170ed01418d1513723238a2b, type: 2}
+  - {fileID: 11400000, guid: 8877dd9ba5f0b70469173094f4afb0cb, type: 2}
+  - {fileID: 11400000, guid: 9418f635d3f06b14d8dda8d15acf8412, type: 2}
+  - {fileID: 11400000, guid: 849396a50307b0248a493bc0b47a6516, type: 2}
+  - {fileID: 11400000, guid: d1543eb0ede15064b8ec21a6a2f13f4f, type: 2}
+  - {fileID: 11400000, guid: 1e3409b42f72a5647a2c8286d7f35431, type: 2}
+  - {fileID: 11400000, guid: c31061c766129dd479efdf5cf46dcf4a, type: 2}

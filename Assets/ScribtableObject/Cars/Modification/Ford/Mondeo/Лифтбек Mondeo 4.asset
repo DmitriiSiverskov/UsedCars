@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc6fda361f84159bc41d69da5ef6675, type: 3}
+  m_Name: "\u041B\u0438\u0444\u0442\u0431\u0435\u043A Mondeo 4"
+  m_EditorClassIdentifier: 
+  _modification:
+  - "1.6 MT (110 \u043B.\u0441.)"
+  - "1.6d MT (115 \u043B.\u0441.)"
+  - "1.6 MT (120 \u043B.\u0441.)"
+  - "1.6 MT (125 \u043B.\u0441.)"
+  - "1.6 MT (160 \u043B.\u0441.)"
+  - "1.8d MT (101 \u043B.\u0441.)"
+  - "1.8d AT (125 \u043B.\u0441.)"
+  - "1.8d MT (125 \u043B.\u0441.)"
+  - "2.0d MT (115 \u043B.\u0441.)"
+  - "2.0d MT (130 \u043B.\u0441.)"
+  - "2.0d AT (130 \u043B.\u0441.)"
+  - "2.0d AT (140 \u043B.\u0441.)"
+  - "2.0d MT (140 \u043B.\u0441.)"
+  - "PowerShift 2.0d AMT (140 \u043B.\u0441.)"
+  - "2.0d AMT (163 \u043B.\u0441.)"
+  - "2.0d MT (163 \u043B.\u0441.)"
+  - "2.0 MT (145 \u043B.\u0441.)"
+  - "2.0 AMT (200 \u043B.\u0441.)"
+  - "2.0 AMT (203 \u043B.\u0441.)"
+  - "2.0 AMT (240 \u043B.\u0441.)"
+  - "2.2d MT (175 \u043B.\u0441.)"
+  - "2.2d MT (200 \u043B.\u0441.)"
+  - "2.2d AT (200 \u043B.\u0441.)"
+  - "2.3 AT (161 \u043B.\u0441.)"
+  - "2.5 MT (220 \u043B.\u0441.)"

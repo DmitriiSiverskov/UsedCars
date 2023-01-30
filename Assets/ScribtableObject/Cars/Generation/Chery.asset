@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 085ac9b0298841a681d88812d0906425, type: 3}
+  m_Name: Chery
+  m_EditorClassIdentifier: 
+  _generation:
+  - {fileID: 11400000, guid: 3547dc009051d754e935bfc055802626, type: 2}
+  - {fileID: 11400000, guid: 8423754db01ab5b438fc8b7880834f88, type: 2}
+  - {fileID: 11400000, guid: 292ff15ce72d64a4baf279a2a8c62dfe, type: 2}
+  - {fileID: 11400000, guid: 29e638c3df9235c4c8e467fb233a43e0, type: 2}
+  - {fileID: 11400000, guid: d5a5049b3d0041c42882af03aa470ef9, type: 2}
+  - {fileID: 11400000, guid: b92036fcb9b95fa4595ceee921eeb618, type: 2}

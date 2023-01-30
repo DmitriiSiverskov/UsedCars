@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc6fda361f84159bc41d69da5ef6675, type: 3}
+  m_Name: "\u041B\u0438\u0444\u0442\u0431\u0435\u043A Octavia 2"
+  m_EditorClassIdentifier: 
+  _modification:
+  - "1.2 AMT (105 \u043B.\u0441.)"
+  - "1.2 MT (105 \u043B.\u0441.)"
+  - "1.4 MT (75 \u043B.\u0441.)"
+  - "1.4 MT (80 \u043B.\u0441.)"
+  - "1.4 AMT (122 \u043B.\u0441.)"
+  - "1.4 MT (122 \u043B.\u0441.)"
+  - "1.6 MT (102 \u043B.\u0441.)"
+  - "1.6 AT (102 \u043B.\u0441.)"
+  - "1.6d MT (105 \u043B.\u0441.)"
+  - "1.6d AMT (105 \u043B.\u0441.)"
+  - "1.6 MT (115 \u043B.\u0441.)"
+  - "1.6 AT (115 \u043B.\u0441.)"
+  - "1.8 AMT (152 \u043B.\u0441.)"
+  - "1.8 MT (152 \u043B.\u0441.)"
+  - "1.8 MT (152 \u043B.\u0441.)"
+  - "1.8 AT (152 \u043B.\u0441.)"
+  - "1.8 MT (160 \u043B.\u0441.)"
+  - "1.8 AMT (160 \u043B.\u0441.)"
+  - "1.9d MT (105 \u043B.\u0441.)"
+  - "1.9d AMT (105 \u043B.\u0441.)"
+  - "2.0d MT (110 \u043B.\u0441.)"
+  - "2.0d MT (140 \u043B.\u0441.)"
+  - "2.0d AMT (140 \u043B.\u0441.)"
+  - "2.0 AT (150 \u043B.\u0441.)"
+  - "2.0 MT (150 \u043B.\u0441.)"

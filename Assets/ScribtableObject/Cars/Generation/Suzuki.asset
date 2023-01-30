@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 085ac9b0298841a681d88812d0906425, type: 3}
+  m_Name: Suzuki
+  m_EditorClassIdentifier: 
+  _generation:
+  - {fileID: 11400000, guid: 3122b21b8eb432340a90bba8f8d72bdd, type: 2}
+  - {fileID: 11400000, guid: 70bc3dab987ac37408672b0a09ee3f35, type: 2}
+  - {fileID: 11400000, guid: fd14b8188af1e024f86a59dcffc4d11c, type: 2}
+  - {fileID: 11400000, guid: 868a76d57bd476e46a00aa2e947ece35, type: 2}
+  - {fileID: 11400000, guid: 9bcfd74948a73da47a88a3e9d4829b44, type: 2}
+  - {fileID: 11400000, guid: f3a42662d04504648b73305c3f21769d, type: 2}
+  - {fileID: 11400000, guid: 235509ac464fd7941849e2b2fde3e2cc, type: 2}

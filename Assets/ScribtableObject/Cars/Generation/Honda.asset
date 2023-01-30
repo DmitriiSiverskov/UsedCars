@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 085ac9b0298841a681d88812d0906425, type: 3}
+  m_Name: Honda
+  m_EditorClassIdentifier: 
+  _generation:
+  - {fileID: 11400000, guid: 7c08aa145382ee54aa2c0fd240c3121c, type: 2}
+  - {fileID: 11400000, guid: 544816af271e1c740a5a26f02281913b, type: 2}
+  - {fileID: 11400000, guid: d7e82ade49e8eb74babdbefb62e009d2, type: 2}
+  - {fileID: 11400000, guid: c6ccb5b20cd5295419cad907a42bafbb, type: 2}
+  - {fileID: 11400000, guid: eb776c7759d96fe4e9e10f4a668a27c9, type: 2}
+  - {fileID: 11400000, guid: 88c6839b23a28af42af0789ee5004e12, type: 2}
+  - {fileID: 11400000, guid: a6fa65e5cdd500a4bb31b49169ea4e9a, type: 2}

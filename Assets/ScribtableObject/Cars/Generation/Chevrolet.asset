@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 085ac9b0298841a681d88812d0906425, type: 3}
+  m_Name: Chevrolet
+  m_EditorClassIdentifier: 
+  _generation:
+  - {fileID: 11400000, guid: 070415f05b6b25944b465eb474584b5f, type: 2}
+  - {fileID: 11400000, guid: cb8d4754f3e119e4882d8b6509d728f9, type: 2}
+  - {fileID: 11400000, guid: be96d441097564c40906e5bd49e42138, type: 2}
+  - {fileID: 11400000, guid: 8e96ad756c67f7a488a886b46a7fd293, type: 2}
+  - {fileID: 11400000, guid: 16b3d155624008a45a84e7784268be7f, type: 2}
+  - {fileID: 11400000, guid: fac57e4311000bc4988da75fa99e2bb9, type: 2}
+  - {fileID: 11400000, guid: bad9f2063fef347478c37f192d6b6813, type: 2}

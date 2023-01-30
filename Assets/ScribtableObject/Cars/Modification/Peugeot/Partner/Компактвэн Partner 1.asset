@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc6fda361f84159bc41d69da5ef6675, type: 3}
+  m_Name: "\u041A\u043E\u043C\u043F\u0430\u043A\u0442\u0432\u044D\u043D Partner 1"
+  m_EditorClassIdentifier: 
+  _modification:
+  - "1.1 MT (60 \u043B.\u0441.)"
+  - "1.4 MT (75 \u043B.\u0441.)"
+  - "1.6d MT (75 \u043B.\u0441.)"
+  - "1.6d MT (90 \u043B.\u0441.)"
+  - "1.6 MT (109 \u043B.\u0441.)"
+  - "1.8d MT (58 \u043B.\u0441.)"
+  - "1.8 MT (90 \u043B.\u0441.)"
+  - "1.9d MT (69 \u043B.\u0441.)"
+  - "2.0d MT (90 \u043B.\u0441.)"

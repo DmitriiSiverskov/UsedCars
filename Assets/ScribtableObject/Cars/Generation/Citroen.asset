@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 085ac9b0298841a681d88812d0906425, type: 3}
+  m_Name: Citroen
+  m_EditorClassIdentifier: 
+  _generation:
+  - {fileID: 11400000, guid: a8d4b62d287d3ac429b749ddae24649b, type: 2}
+  - {fileID: 11400000, guid: 8828d68872eb7c040bab6c889e82336e, type: 2}
+  - {fileID: 11400000, guid: e11bded0f81b2c34d8881d68c02cbebd, type: 2}
+  - {fileID: 11400000, guid: 1653ba79c4c2b5f4c9b558c96ac7e291, type: 2}
+  - {fileID: 11400000, guid: ae3ef53deb33719469d61f60581b1ffb, type: 2}
+  - {fileID: 11400000, guid: afae8b418aac80842b5b93aa59f8bf9c, type: 2}
+  - {fileID: 11400000, guid: 561c626a708a84f48ba191be350ae2c0, type: 2}

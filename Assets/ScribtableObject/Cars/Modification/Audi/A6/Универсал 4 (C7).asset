@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc6fda361f84159bc41d69da5ef6675, type: 3}
+  m_Name: "\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B 4 (C7)"
+  m_EditorClassIdentifier: 
+  _modification:
+  - "1.8 AMT (190 \u043B.\u0441.)"
+  - "1.8 MT (190 \u043B.\u0441.)"
+  - "2.0d MT (136 \u043B.\u0441.)"
+  - "2.0d CVT (136 \u043B.\u0441.)"
+  - "2.0d AMT (150 \u043B.\u0441.)"
+  - "2.0d MT (150 \u043B.\u0441.)"
+  - "2.0d MT (177 \u043B.\u0441.)"
+  - "2.0d CVT (177 \u043B.\u0441.)"
+  - "2.0 CVT (180 \u043B.\u0441.)"
+  - "2.0 MT (180 \u043B.\u0441.)"
+  - "2.0d AMT (190 \u043B.\u0441.) 4WD"
+  - "2.0d AMT (190 \u043B.\u0441.)"
+  - "2.0d MT (190 \u043B.\u0441.)"
+  - "2.0hyb AT (211 \u043B.\u0441.)"
+  - "2.0 CVT (220 \u043B.\u0441.)"
+  - "2.0 AMT (249 \u043B.\u0441.) 4WD"
+  - "2.0 AMT (252 \u043B.\u0441.) 4WD"
+  - "2.0 AMT (252 \u043B.\u0441.)"
+  - "2.0 AT (256 \u043B.\u0441.) 4WD"
+  - "2.8 AMT (204 \u043B.\u0441.) 4WD"
+  - "2.8 MT (204 \u043B.\u0441.)"
+  - "2.8 CVT (204 \u043B.\u0441.)"
+  - "2.8 MT (204 \u043B.\u0441.) 4WD"
+  - "2.8 AMT (220 \u043B.\u0441.) 4WD"
+  - "3.0d AMT (204 \u043B.\u0441.) 4WD"
+  - "3.0d MT (204 \u043B.\u0441.)"
+  - "3.0d CVT (204 \u043B.\u0441.)"
+  - "3.0d AMT (218 \u043B.\u0441.)"
+  - "3.0d AMT (218 \u043B.\u0441.) 4WD"
+  - "3.0d AMT (245 \u043B.\u0441.) 4WD"
+  - "3.0d AMT (272 \u043B.\u0441.) 4WD"
+  - "3.0 AMT (300 \u043B.\u0441.) 4WD"
+  - "3.0 AMT (310 \u043B.\u0441.) 4WD"
+  - "3.0d AT (313 \u043B.\u0441.) 4WD"
+  - "3.0d AT (320 \u043B.\u0441.) 4WD"
+  - "3.0d AT (326 \u043B.\u0441.) 4WD"
+  - "3.0 AMT (333 \u043B.\u0441.) 4WD"

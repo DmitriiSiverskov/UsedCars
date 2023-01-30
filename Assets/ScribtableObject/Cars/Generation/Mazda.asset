@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 085ac9b0298841a681d88812d0906425, type: 3}
+  m_Name: Mazda
+  m_EditorClassIdentifier: 
+  _generation:
+  - {fileID: 11400000, guid: db4ca8fb22e8cf9488984e2396521eee, type: 2}
+  - {fileID: 11400000, guid: 790a2fc5948af2d438c9beb293b83145, type: 2}
+  - {fileID: 11400000, guid: 5717993e7b311b7458aa8a9a7ee14e59, type: 2}
+  - {fileID: 11400000, guid: 90fa8b0fec564b341a06af1cd0b8b339, type: 2}
+  - {fileID: 11400000, guid: af1de36e9960cc04ebcbb94cf88ed2f8, type: 2}
+  - {fileID: 11400000, guid: 0f4fb3bf5f995e544afbee865125107e, type: 2}
+  - {fileID: 11400000, guid: b1888e86ce8fe9b41bbd0bdcb8e401e7, type: 2}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc6fda361f84159bc41d69da5ef6675, type: 3}
+  m_Name: "\u0425\u044D\u0442\u0447\u0431\u0435\u043A Golf 8"
+  m_EditorClassIdentifier: 
+  _modification:
+  - "1.0 MT (90 \u043B.\u0441.)"
+  - "1.0 AMT (110 \u043B.\u0441.)"
+  - "1.0 MT (110 \u043B.\u0441.)"
+  - "1.4 AT (150 \u043B.\u0441.)"
+  - "1.4hyb AMT (204 \u043B.\u0441.)"
+  - "GTE 1.4hyb AMT (245 \u043B.\u0441.)"
+  - "1.5 AMT (130 \u043B.\u0441.)"
+  - "1.5 MT (130 \u043B.\u0441.)"
+  - "1.5 AMT (130 \u043B.\u0441.)"
+  - "1.5 AMT (150 \u043B.\u0441.)"
+  - "1.5 MT (150 \u043B.\u0441.)"
+  - "2.0d MT (115 \u043B.\u0441.)"
+  - "2.0d AMT (115 \u043B.\u0441.)"
+  - "2.0d AMT (150 \u043B.\u0441.)"
+  - "2.0d MT (150 \u043B.\u0441.)"
+  - "GTD 2.0d AMT (200 \u043B.\u0441.)"
+  - "2.0 AMT (190 \u043B.\u0441.) 4WD"
+  - "2.0 AMT (190 \u043B.\u0441.)"

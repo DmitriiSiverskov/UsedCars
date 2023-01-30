@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc6fda361f84159bc41d69da5ef6675, type: 3}
+  m_Name: "\u0412\u043D\u0435\u0434\u043E\u0440\u043E\u0436\u043D\u0438\u043A Land
+    Cruiser"
+  m_EditorClassIdentifier: 
+  _modification:
+  - "4.0 MT (228 \u043B.\u0441.) 4WD"
+  - "4.0 MT (243 \u043B.\u0441.) 4WD"
+  - "4.0 AT (243 \u043B.\u0441.) 4WD"
+  - "4.0 AT (271 \u043B.\u0441.) 4WD"
+  - "4.0 AT (275 \u043B.\u0441.) 4WD"
+  - "4.2d MT (128 \u043B.\u0441.) 4WD"
+  - "4.2d AT (131 \u043B.\u0441.) 4WD"
+  - "4.2d MT (131 \u043B.\u0441.) 4WD"
+  - "4.2d MT (135 \u043B.\u0441.) 4WD"
+  - "4.2d AT (135 \u043B.\u0441.) 4WD"
+  - "4.2d MT (160 \u043B.\u0441.) 4WD"
+  - "4.2d AT (160 \u043B.\u0441.) 4WD"
+  - "4.2d MT (164 \u043B.\u0441.) 4WD"
+  - "4.2d AT (167 \u043B.\u0441.) 4WD"
+  - "4.2d MT (167 \u043B.\u0441.) 4WD"
+  - "4.2d MT (170 \u043B.\u0441.) 4WD"
+  - "4.2d AT (170 \u043B.\u0441.) 4WD"
+  - "4.2d MT (180 \u043B.\u0441.) 4WD"
+  - "4.2d AT (204 \u043B.\u0441.) 4WD"
+  - "4.2d MT (204 \u043B.\u0441.) 4WD"
+  - "4.5d MT (202 \u043B.\u0441.) 4WD"
+  - "4.5d AT (202 \u043B.\u0441.) 4WD"
+  - "4.5 AT (205 \u043B.\u0441.) 4WD"
+  - "4.5 MT (205 \u043B.\u0441.) 4WD"
+  - "4.5 AT (212 \u043B.\u0441.) 4WD"
+  - "4.5 MT (212 \u043B.\u0441.) 4WD"
+  - "4.5 MT (215 \u043B.\u0441.) 4WD"
+  - "4.5 AT (215 \u043B.\u0441.) 4WD"
+  - "4.5 MT (224 \u043B.\u0441.) 4WD"
+  - "4.5 AT (224 \u043B.\u0441.) 4WD"
+  - "4.5d MT (235 \u043B.\u0441.) 4WD"
+  - "4.5d AT (235 \u043B.\u0441.) 4WD"
+  - "4.5d AT (272 \u043B.\u0441.) 4WD"
+  - "4.5d AT (286 \u043B.\u0441.) 4WD"
+  - "4.6 AT (309 \u043B.\u0441.) 4WD"
+  - "4.6 AT (318 \u043B.\u0441.) 4WD"
+  - "4.7 MT (235 \u043B.\u0441.) 4WD"
+  - "4.7 AT (235 \u043B.\u0441.) 4WD"
+  - "4.7 AT (288 \u043B.\u0441.) 4WD"
+  - "5.7 AT (381 \u043B.\u0441.) 4WD"

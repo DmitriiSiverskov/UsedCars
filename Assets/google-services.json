@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "124913592423",
+    "firebase_url": "https://test-90c77-default-rtdb.firebaseio.com",
+    "project_id": "test-90c77",
+    "storage_bucket": "test-90c77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124913592423:android:fb1c7109649260efa0ccc2",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.UsedCars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124913592423-keni06m6khp6c2cn6gfrarh3vqp1m5o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApI7e0q7GV3fqZcJu_u19L7AHzGxMA5og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124913592423-keni06m6khp6c2cn6gfrarh3vqp1m5o0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124913592423-j6m25jau5mqu05p9f0f4dhntri1tq6nf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DefaultCompany.UsedCars"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

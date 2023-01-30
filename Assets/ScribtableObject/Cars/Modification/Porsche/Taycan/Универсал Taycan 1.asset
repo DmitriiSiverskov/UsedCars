@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc6fda361f84159bc41d69da5ef6675, type: 3}
+  m_Name: "\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B Taycan 1"
+  m_EditorClassIdentifier: 
+  _modification:
+  - "Sport Turismo Electro AT (300.0 \u043A\u0412\u0442)"
+  - "Sport Turismo Electro AT (350.0 \u043A\u0412\u0442)"
+  - "4 Cross Turismo Electro AT (350.0 \u043A\u0412\u0442) 4WD"
+  - "4S Sport Turismo Electro AT (420.0 \u043A\u0412\u0442) 4WD"
+  - "4S Cross Turismo Electro AT (420.0 \u043A\u0412\u0442) 4WD"
+  - "GTS Sport Turismo Electro AT (440.0 \u043A\u0412\u0442) 4WD"
+  - "Turbo Cross Turismo Electro AT (500.0 \u043A\u0412\u0442) 4WD"
+  - "Turbo S Cross Turismo Electro AT (560.0 \u043A\u0412\u0442) 4WD"
+  - "Turbo S Sport Turismo Electro AT (560.0 \u043A\u0412\u0442) 4WD"
+  - "Turbo Sport Turismo Electro AT (850.0 \u043A\u0412\u0442) 4WD"

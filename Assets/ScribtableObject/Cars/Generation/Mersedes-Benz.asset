@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 085ac9b0298841a681d88812d0906425, type: 3}
+  m_Name: Mersedes-Benz
+  m_EditorClassIdentifier: 
+  _generation:
+  - {fileID: 11400000, guid: 68d5988b22c3a994da718e6d58d711e0, type: 2}
+  - {fileID: 11400000, guid: 87c0f5dca0fa19446aa6d4848c867fcf, type: 2}
+  - {fileID: 11400000, guid: 2abe11880d34ca44d94de08d1882bcb4, type: 2}
+  - {fileID: 11400000, guid: 5a801ae4cf9d26c438b9c78b5b79d0df, type: 2}
+  - {fileID: 11400000, guid: 324a5f095503f594a8025ff01f58b89a, type: 2}
+  - {fileID: 11400000, guid: f12a664e9eed5a34f828ecfa24d89fb0, type: 2}
+  - {fileID: 11400000, guid: f90c744ed9d6b5242836a43d93313d44, type: 2}

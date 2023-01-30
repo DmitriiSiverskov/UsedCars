@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc6fda361f84159bc41d69da5ef6675, type: 3}
+  m_Name: "\u0421\u0435\u0434\u0430\u043D Mondeo 5"
+  m_EditorClassIdentifier: 
+  _modification:
+  - "1.0 MT (125 \u043B.\u0441.)"
+  - "1.5 MT (160 \u043B.\u0441.)"
+  - "1.5 AT (160 \u043B.\u0441.)"
+  - "ECOnetic 1.5d MT (120 \u043B.\u0441.)"
+  - "ECOnetic 1.6d MT (115 \u043B.\u0441.)"
+  - "1.6d MT (115 \u043B.\u0441.)"
+  - "2.0d MT (150 \u043B.\u0441.)"
+  - "2.0d AMT (150 \u043B.\u0441.)"
+  - "ECOnetic 2.0d MT (150 \u043B.\u0441.)"
+  - "2.0d MT (180 \u043B.\u0441.)"
+  - "2.0d AMT (180 \u043B.\u0441.)"
+  - "ECOnetic 2.0d MT (180 \u043B.\u0441.)"
+  - "2.0hyb CVT (187 \u043B.\u0441.)"
+  - "2.0 AT (199 \u043B.\u0441.)"
+  - "2.0 AT (203 \u043B.\u0441.)"
+  - "2.0 AT (240 \u043B.\u0441.)"
+  - "2.5 AT (149 \u043B.\u0441.)"

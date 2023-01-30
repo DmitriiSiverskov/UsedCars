@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb8bd76468d542889621d1a871090eee, type: 3}
+  m_Name: Infiniti
+  m_EditorClassIdentifier: 
+  _mark: Infiniti
+  _model: {fileID: 11400000, guid: a65e6e5fa8c64824199c1c00f3f9339e, type: 2}
+  _generation: {fileID: 11400000, guid: c7df6c9d454ca554aafd88bf19bf6c7f, type: 2}
+  _modification:
+  - {fileID: 11400000, guid: 4916ffd935d1a1547a7fb5fc974a5163, type: 2}
+  - {fileID: 11400000, guid: 334776f18c4618444bb4da7d8cc51a7a, type: 2}
+  - {fileID: 11400000, guid: c0ec42dc48191a74eb1660b986991345, type: 2}
+  - {fileID: 11400000, guid: 86f32d4e024a0894489b414e829421d9, type: 2}
+  - {fileID: 11400000, guid: 41b721ba8375d4844ab92aca273c469a, type: 2}
+  - {fileID: 11400000, guid: fdaf3e0540be91a40936e4ac8d1c0235, type: 2}
+  - {fileID: 11400000, guid: 3f14ac33c21b819448fc4d9a8e277a88, type: 2}
+  - {fileID: 11400000, guid: de4743d18be99eb49b03f259235c6b2b, type: 2}
+  - {fileID: 11400000, guid: 7f8330e9bf46451459339a91da4208cc, type: 2}
+  - {fileID: 11400000, guid: 3b49f66a729cdb14c9dd06284bbf42f9, type: 2}
+  - {fileID: 11400000, guid: 4cb2fe73580630e47afcc3d61a7fee99, type: 2}
+  - {fileID: 11400000, guid: 787868079f65a1e4990e8e46e7b6ab0d, type: 2}
+  - {fileID: 11400000, guid: 84f066b79e798cd42b508ebc44aff76b, type: 2}
+  - {fileID: 11400000, guid: 56e5e66a69db1954ca165fbd60e2b985, type: 2}
+  - {fileID: 11400000, guid: 7582c9fa236d77747a50568fa38ae68d, type: 2}

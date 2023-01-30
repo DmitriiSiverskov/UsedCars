@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc6fda361f84159bc41d69da5ef6675, type: 3}
+  m_Name: "\u041A\u043E\u043C\u043F\u0430\u043A\u0442\u0432\u044D\u043D Scenic 2"
+  m_EditorClassIdentifier: 
+  _modification:
+  - "1.4 MT (98 \u043B.\u0441.)"
+  - "1.5d MT (80 \u043B.\u0441.)"
+  - "1.5d MT (86 \u043B.\u0441.)"
+  - "1.5d MT (100 \u043B.\u0441.)"
+  - "1.5d MT (105 \u043B.\u0441.)"
+  - "1.6 MT (115 \u043B.\u0441.)"
+  - "1.6 AT (115 \u043B.\u0441.)"
+  - "1.9d MT (100 \u043B.\u0441.)"
+  - "1.9d MT (120 \u043B.\u0441.)"
+  - "1.9d AT (120 \u043B.\u0441.)"
+  - "1.9d AT (130 \u043B.\u0441.)"
+  - "1.9d MT (130 \u043B.\u0441.)"
+  - "2.0 MT (135 \u043B.\u0441.)"
+  - "2.0 AT (136 \u043B.\u0441.)"
+  - "2.0 MT (136 \u043B.\u0441.)"
+  - "2.0d AT (150 \u043B.\u0441.)"
+  - "2.0d MT (150 \u043B.\u0441.)"
+  - "2.0 MT (165 \u043B.\u0441.)"

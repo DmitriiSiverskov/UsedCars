@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc6fda361f84159bc41d69da5ef6675, type: 3}
+  m_Name: "\u041A\u0443\u043F\u0435 G 3"
+  m_EditorClassIdentifier: 
+  _modification:
+  - "3.5 MT (284 \u043B.\u0441.)"
+  - "3.5 AT (284 \u043B.\u0441.)"
+  - "3.5 MT (302 \u043B.\u0441.)"
+  - "3.5 AT (302 \u043B.\u0441.)"

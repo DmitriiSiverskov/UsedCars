@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc6fda361f84159bc41d69da5ef6675, type: 3}
+  m_Name: "\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B 1 (C4)"
+  m_EditorClassIdentifier: 
+  _modification:
+  - "1.8 AT (125 \u043B.\u0441.)"
+  - "1.8 MT (125 \u043B.\u0441.)"
+  - "1.8 MT (125 \u043B.\u0441.) 4WD"
+  - "1.9d MT (90 \u043B.\u0441.)"
+  - "1.9d AT (90 \u043B.\u0441.)"
+  - "2.0 MT (101 \u043B.\u0441.)"
+  - "2.0 AT (101 \u043B.\u0441.)"
+  - "2.0 MT (115 \u043B.\u0441.)"
+  - "2.0 AT (115 \u043B.\u0441.)"
+  - "2.0 AT (140 \u043B.\u0441.) 4WD"
+  - "2.0 MT (140 \u043B.\u0441.)"
+  - "2.0 AT (140 \u043B.\u0441.)"
+  - "2.0 MT (140 \u043B.\u0441.) 4WD"
+  - "2.3 MT (133 \u043B.\u0441.) 4WD"
+  - "2.3 AT (133 \u043B.\u0441.)"
+  - "2.3 AT (133 \u043B.\u0441.) 4WD"
+  - "2.3 MT (133 \u043B.\u0441.)"
+  - "2.5d MT (115 \u043B.\u0441.)"
+  - "6-speed 2.5d MT (115 \u043B.\u0441.)"
+  - "2.5d AT (115 \u043B.\u0441.)"
+  - "2.5d AT (140 \u043B.\u0441.)"
+  - "2.5d MT (140 \u043B.\u0441.)"
+  - "2.5d MT (140 \u043B.\u0441.) 4WD"
+  - "2.6 AT (150 \u043B.\u0441.)"
+  - "2.6 AT (150 \u043B.\u0441.) 4WD"
+  - "2.6 MT (150 \u043B.\u0441.)"
+  - "2.6 MT (150 \u043B.\u0441.) 4WD"
+  - "2.8 MT (174 \u043B.\u0441.)"
+  - "2.8 MT (174 \u043B.\u0441.) 4WD"
+  - "2.8 AT (174 \u043B.\u0441.) 4WD"
+  - "2.8 AT (174 \u043B.\u0441.)"
+  - "2.8 AT (193 \u043B.\u0441.)"
+  - "2.8 MT (193 \u043B.\u0441.)"
+  - "2.8 MT (193 \u043B.\u0441.) 4WD"
+  - "2.8 AT (193 \u043B.\u0441.) 4WD"

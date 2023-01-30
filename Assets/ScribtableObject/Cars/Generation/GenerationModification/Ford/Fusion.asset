@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ef10ec71c244f8c8bf4d6bcc3005e75, type: 3}
+  m_Name: Fusion
+  m_EditorClassIdentifier: 
+  _generationModification:
+  - "\u0425\u044D\u0442\u0447\u0431\u0435\u043A Fusion 1"

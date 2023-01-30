@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 085ac9b0298841a681d88812d0906425, type: 3}
+  m_Name: Audi
+  m_EditorClassIdentifier: 
+  _generation:
+  - {fileID: 11400000, guid: a8e3cf774737d0c4ea299b3e281c1398, type: 2}
+  - {fileID: 11400000, guid: 4c118a6b7a085514790a4b5ab15b4a24, type: 2}
+  - {fileID: 11400000, guid: 10cc8fccfda78994ebdb607827d0d689, type: 2}
+  - {fileID: 11400000, guid: 2876896dbb49ebe4a9dabdbeab88d988, type: 2}
+  - {fileID: 11400000, guid: f92f97c77a3ce4842bf0d9b45d58cf21, type: 2}

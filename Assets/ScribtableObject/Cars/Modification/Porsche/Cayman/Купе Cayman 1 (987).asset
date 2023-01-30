@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc6fda361f84159bc41d69da5ef6675, type: 3}
+  m_Name: "\u041A\u0443\u043F\u0435 Cayman 1 (987)"
+  m_EditorClassIdentifier: 
+  _modification:
+  - "2.7 AT (245 \u043B.\u0441.)"
+  - "2.7 MT (245 \u043B.\u0441.)"
+  - "2.9 AMT (265 \u043B.\u0441.)"
+  - "2.9 MT (265 \u043B.\u0441.)"
+  - "3.4 MT (295 \u043B.\u0441.)"
+  - "3.4 AT (295 \u043B.\u0441.)"
+  - "3.4 MT (303 \u043B.\u0441.)"
+  - "3.4 AT (303 \u043B.\u0441.)"
+  - "3.4 MT (320 \u043B.\u0441.)"
+  - "3.4 AMT (320 \u043B.\u0441.)"
+  - "3.4 AMT (330 \u043B.\u0441.)"
+  - "3.4 MT (330 \u043B.\u0441.)"

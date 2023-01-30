@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc6fda361f84159bc41d69da5ef6675, type: 3}
+  m_Name: "\u0425\u044D\u0442\u0447\u0431\u0435\u043A Splash 1"
+  m_EditorClassIdentifier: 
+  _modification:
+  - "1.0 MT (68 \u043B.\u0441.)"
+  - "1.2 MT (86 \u043B.\u0441.)"
+  - "1.2 AT (86 \u043B.\u0441.)"
+  - "1.2 CVT (88 \u043B.\u0441.)"
+  - "1.2 CVT (91 \u043B.\u0441.)"
+  - "1.2 AT (94 \u043B.\u0441.)"
+  - "1.2 MT (94 \u043B.\u0441.)"
+  - "1.3d MT (75 \u043B.\u0441.)"

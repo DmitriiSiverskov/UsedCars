@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc6fda361f84159bc41d69da5ef6675, type: 3}
+  m_Name: "\u0425\u044D\u0442\u0447\u0431\u0435\u043A Panamera 1"
+  m_EditorClassIdentifier: 
+  _modification:
+  - "3.0d AT (211 \u043B.\u0441.)"
+  - "3.0d AT (250 \u043B.\u0441.)"
+  - "3.0d AT (300 \u043B.\u0441.)"
+  - "3.0hyb AMT (333 \u043B.\u0441.)"
+  - "3.0 MT (420 \u043B.\u0441.)"
+  - "3.0 AMT (420 \u043B.\u0441.)"
+  - "3.0 AMT (420 \u043B.\u0441.) 4WD"
+  - "3.6 MT (300 \u043B.\u0441.)"
+  - "3.6 AMT (300 \u043B.\u0441.)"
+  - "3.6 AMT (300 \u043B.\u0441.) 4WD"
+  - "3.6 MT (310 \u043B.\u0441.)"
+  - "3.6 AMT (310 \u043B.\u0441.)"
+  - "3.6 AMT (310 \u043B.\u0441.) 4WD"
+  - "4.8 MT (400 \u043B.\u0441.)"
+  - "4.8 AMT (400 \u043B.\u0441.) 4WD"
+  - "4.8 AMT (430 \u043B.\u0441.) 4WD"
+  - "4.8 AMT (440 \u043B.\u0441.) 4WD"
+  - "Turbo 4.8 AMT (500 \u043B.\u0441.) 4WD"
+  - "Turbo 4.8 AMT (520 \u043B.\u0441.) 4WD"
+  - "Turbo S 4.8 AMT (550 \u043B.\u0441.) 4WD"
+  - "Turbo S 4.8 AMT (570 \u043B.\u0441.) 4WD"

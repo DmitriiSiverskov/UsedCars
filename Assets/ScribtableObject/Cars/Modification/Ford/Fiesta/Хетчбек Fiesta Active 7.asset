@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc6fda361f84159bc41d69da5ef6675, type: 3}
+  m_Name: "\u0425\u0435\u0442\u0447\u0431\u0435\u043A Fiesta Active 7"
+  m_EditorClassIdentifier: 
+  _modification:
+  - "Active 1.0 MT (85 \u043B.\u0441.)"
+  - "Active 1.0 MT (100 \u043B.\u0441.)"
+  - "Active 1.0 AT (100 \u043B.\u0441.)"
+  - "Active 1.0hyb MT (125 \u043B.\u0441.)"
+  - "Active 1.0hyb AMT (125 \u043B.\u0441.)"
+  - "Active MHEV 1.0 MT (125 \u043B.\u0441.)"
+  - "Active MHEV 1.0 AMT (125 \u043B.\u0441.)"
+  - "Active 1.0 MT (125 \u043B.\u0441.)"
+  - "Active 1.0 AMT (125 \u043B.\u0441.)"
+  - "Active 1.0 MT (140 \u043B.\u0441.)"
+  - "Active 1.0hyb MT (155 \u043B.\u0441.)"
+  - "Active MHEV 1.0 MT (155 \u043B.\u0441.)"
+  - "Active 1.5d MT (85 \u043B.\u0441.)"
+  - "Active 1.5d MT (120 \u043B.\u0441.)"

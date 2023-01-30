@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 085ac9b0298841a681d88812d0906425, type: 3}
+  m_Name: Opel
+  m_EditorClassIdentifier: 
+  _generation:
+  - {fileID: 11400000, guid: d3dce0b5f0896d7478c95b0489f3e5c0, type: 2}
+  - {fileID: 11400000, guid: c1cceeaececa616459494442d7314d5f, type: 2}
+  - {fileID: 11400000, guid: a7dc558350d8baf4692e6a1a1cf605ff, type: 2}
+  - {fileID: 11400000, guid: d2b0fba69f9537643adeabb656e266f1, type: 2}
+  - {fileID: 11400000, guid: 06d31979c13a3294097a1ba8034fd328, type: 2}
+  - {fileID: 11400000, guid: 0594955b20c34ce428f0b5141415222d, type: 2}
+  - {fileID: 11400000, guid: 8ff6120296e0a0749a2b16f704d401c0, type: 2}

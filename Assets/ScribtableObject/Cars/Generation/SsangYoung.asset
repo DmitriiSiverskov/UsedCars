@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 085ac9b0298841a681d88812d0906425, type: 3}
+  m_Name: SsangYoung
+  m_EditorClassIdentifier: 
+  _generation:
+  - {fileID: 11400000, guid: d45e034b0826db54b9ce1c1319f12a99, type: 2}
+  - {fileID: 11400000, guid: 0d9996638dc43524cae2c63afa948472, type: 2}
+  - {fileID: 11400000, guid: 5b3d3d01e768eae44adf8b34864781da, type: 2}
+  - {fileID: 11400000, guid: 8227c12f9f911244085dc3129bcd9257, type: 2}
+  - {fileID: 11400000, guid: 4f8fa4f383cf9ed4c9e563717e6cfcec, type: 2}

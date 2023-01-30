@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc6fda361f84159bc41d69da5ef6675, type: 3}
+  m_Name: "\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B 6 (F1x)"
+  m_EditorClassIdentifier: 
+  _modification:
+  - "518d 2.0d MT (143 \u043B.\u0441.)"
+  - "518d 2.0d AT (143 \u043B.\u0441.)"
+  - "518d 2.0d AT (150 \u043B.\u0441.)"
+  - "518d 2.0d MT (150 \u043B.\u0441.)"
+  - "520i 2.0 AT (184 \u043B.\u0441.)"
+  - "520i 2.0 MT (184 \u043B.\u0441.)"
+  - "520d 2.0d AT (184 \u043B.\u0441.)"
+  - "520d 2.0d MT (184 \u043B.\u0441.)"
+  - "520d xDrive 2.0d AT (184 \u043B.\u0441.) 4WD"
+  - "520d xDrive 2.0d AT (190 \u043B.\u0441.) 4WD"
+  - "520d 2.0d AT (190 \u043B.\u0441.)"
+  - "520d 2.0d MT (190 \u043B.\u0441.)"
+  - "523i 2.5 AT (204 \u043B.\u0441.)"
+  - "523i 2.5 MT (204 \u043B.\u0441.)"
+  - "525d 3.0d MT (204 \u043B.\u0441.)"
+  - "525d 3.0d AT (204 \u043B.\u0441.)"
+  - "525d 2.0d MT (218 \u043B.\u0441.)"
+  - "525d 2.0d AT (218 \u043B.\u0441.)"
+  - "525d xDrive 2.0d AT (218 \u043B.\u0441.) 4WD"
+  - "520i 2.0 MT (184 \u043B.\u0441.)"
+  - "520i 2.0 AT (184 \u043B.\u0441.)"
+  - "528i 2.0 AT (245 \u043B.\u0441.)"
+  - "528i 2.0 MT (245 \u043B.\u0441.)"
+  - "528i xDrive 2.0 AT (245 \u043B.\u0441.) 4WD"
+  - "528i 3.0 MT (258 \u043B.\u0441.)"
+  - "528i xDrive 3.0 AT (258 \u043B.\u0441.) 4WD"
+  - "528i 3.0 AT (258 \u043B.\u0441.)"
+  - "528i xDrive 3.0 MT (258 \u043B.\u0441.) 4WD"
+  - "530d 3.0d AT (245 \u043B.\u0441.)"
+  - "530d 3.0d MT (245 \u043B.\u0441.)"
+  - "535d 3.0d AT (300 \u043B.\u0441.)"
+  - "535d 3.0d AT (300 \u043B.\u0441.) 4WD"
+  - "535i 3.0 AT (306 \u043B.\u0441.)"
+  - "535i xDrive 3.0 AT (306 \u043B.\u0441.) 4WD"
+  - "535i 3.0 MT (306 \u043B.\u0441.)"
+  - "530d 3.0d MT (258 \u043B.\u0441.)"
+  - "530d xDrive 3.0d AT (258 \u043B.\u0441.) 4WD"
+  - "530d 3.0d AT (258 \u043B.\u0441.)"
+  - "535d xDrive 3.0d AT (313 \u043B.\u0441.) 4WD"
+  - "535d 3.0d AT (313 \u043B.\u0441.)"
+  - "M550d xDrive 3.0d AT (381 \u043B.\u0441.) 4WD"
+  - "550i 4.4 AT (449 \u043B.\u0441.)"

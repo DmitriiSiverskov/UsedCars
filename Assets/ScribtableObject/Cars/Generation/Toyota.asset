@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 085ac9b0298841a681d88812d0906425, type: 3}
+  m_Name: Toyota
+  m_EditorClassIdentifier: 
+  _generation:
+  - {fileID: 11400000, guid: 56622f4c08e3b8b4bb53442298321ac6, type: 2}
+  - {fileID: 11400000, guid: d55d9716956120d4cbc06f684566302a, type: 2}
+  - {fileID: 11400000, guid: fd86679fb5563c74e89edfc17c444e7e, type: 2}
+  - {fileID: 11400000, guid: 49162004bbc30494ea2956d61f3dbc32, type: 2}
+  - {fileID: 11400000, guid: 404c857037c3a7b49a25525497199411, type: 2}
+  - {fileID: 11400000, guid: 271ac879659ad8e49ae6a1fa701a97a3, type: 2}
+  - {fileID: 11400000, guid: b736aada5a78ddb4fa8ab2a7516b7243, type: 2}

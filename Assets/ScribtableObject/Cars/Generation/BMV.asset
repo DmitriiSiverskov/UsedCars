@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 085ac9b0298841a681d88812d0906425, type: 3}
+  m_Name: BMV
+  m_EditorClassIdentifier: 
+  _generation:
+  - {fileID: 11400000, guid: e2a794c5259105f49bae6f158a04a282, type: 2}
+  - {fileID: 11400000, guid: d94830525ace5bf49917b948768ef5c1, type: 2}
+  - {fileID: 11400000, guid: 2a7d478d8b93ff74aa74c677611b50ab, type: 2}
+  - {fileID: 11400000, guid: b448770f16433b54c9e2e946f06f81a5, type: 2}
+  - {fileID: 11400000, guid: 85a36999cbb1dd1418c29c37b480f8ef, type: 2}
+  - {fileID: 11400000, guid: 0a59e2233cb07a74eb48d93cdbdb89a5, type: 2}
+  - {fileID: 11400000, guid: 20ee15834127cf142a7997a34924f26a, type: 2}

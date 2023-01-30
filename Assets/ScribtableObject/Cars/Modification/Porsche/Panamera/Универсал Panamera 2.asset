@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc6fda361f84159bc41d69da5ef6675, type: 3}
+  m_Name: "\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0430\u043B Panamera 2"
+  m_EditorClassIdentifier: 
+  _modification:
+  - "2.9 AMT (330 \u043B.\u0441.) 4WD"
+  - "2.9hyb AMT (330 \u043B.\u0441.) 4WD"
+  - "2.9d AMT (422 \u043B.\u0441.) 4WD"
+  - "2.9 AMT (440 \u043B.\u0441.) 4WD"
+  - "2.9hyb AMT (450 \u043B.\u0441.) 4WD"
+  - "3.0 AMT (330 \u043B.\u0441.) 4WD"
+  - "4.0 AMT (460 \u043B.\u0441.) 4WD"
+  - "4.0 AMT (480 \u043B.\u0441.) 4WD"
+  - "Turbo S E-Hybrid Sport Turismo 4.0hyb AMT (550 \u043B.\u0441.) 4WD"
+  - "Turbo Sport Turismo 4.0 AMT (550 \u043B.\u0441.) 4WD"
+  - "4.0hyb AMT (571 \u043B.\u0441.) 4WD"
+  - "Turbo S 4.0 AMT (630 \u043B.\u0441.) 4WD"

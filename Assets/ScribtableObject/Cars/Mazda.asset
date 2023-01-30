@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb8bd76468d542889621d1a871090eee, type: 3}
+  m_Name: Mazda
+  m_EditorClassIdentifier: 
+  _mark: Mazda
+  _model: {fileID: 11400000, guid: 4abc801b48c2ec5479608a64f7d949a2, type: 2}
+  _generation: {fileID: 11400000, guid: 9501ce9543d3af54d8d9b93d5847dded, type: 2}
+  _modification:
+  - {fileID: 11400000, guid: 7d4d5c36f7f45c240bc709aabd710241, type: 2}
+  - {fileID: 11400000, guid: 57059bc7f45fe924c8971b718bcca9d3, type: 2}
+  - {fileID: 11400000, guid: 82130d281d3101c47a506e95c551d885, type: 2}
+  - {fileID: 11400000, guid: d135ee1495c85984684f9acc5b520d99, type: 2}
+  - {fileID: 11400000, guid: 36098d766d7fe31458271fe7da5172a2, type: 2}
+  - {fileID: 11400000, guid: d091cd9f6ca132b44b64e99401b08d1f, type: 2}
+  - {fileID: 11400000, guid: efe03cf7d67d04b4a983cfcf8a5ee54f, type: 2}
+  - {fileID: 11400000, guid: bc84e7e111026754bba25e96b8f492ca, type: 2}
+  - {fileID: 11400000, guid: a7a61ad206bc0f645bdb9b352cc93a4d, type: 2}
+  - {fileID: 11400000, guid: adb7434489440c2498e4f27dc197f0ac, type: 2}
+  - {fileID: 11400000, guid: e866fd5247cf0a446af51666b12bf2ec, type: 2}
+  - {fileID: 11400000, guid: 23779ee54eaf34346b9b543a7dfe5b66, type: 2}
+  - {fileID: 11400000, guid: 7c3f7a02eab687c49bd121b4222d8832, type: 2}
+  - {fileID: 11400000, guid: e5442b08ed7804b4ab1e561b753237bd, type: 2}
+  - {fileID: 11400000, guid: 85fbc0d80b1200a4dbb45faaa6700937, type: 2}
+  - {fileID: 11400000, guid: 4135a7f8d955c504a89cc296ca1567df, type: 2}
+  - {fileID: 11400000, guid: 62a05cb1f93549a4483fab5ef7db8f8a, type: 2}
+  - {fileID: 11400000, guid: e106c3d6f123b824e987ab6f425c33d5, type: 2}
+  - {fileID: 11400000, guid: b598023f99a86644e8d579dceeb484d9, type: 2}
+  - {fileID: 11400000, guid: 74bd8c8351308d24994b654b40e0568a, type: 2}
+  - {fileID: 11400000, guid: f0824da27eb39624383dd32c499bb88b, type: 2}
+  - {fileID: 11400000, guid: 0fc5129a6cc429a48adf729e7cf225a8, type: 2}
+  - {fileID: 11400000, guid: d108bd26c5c819546ba5e5c0baa906c9, type: 2}
+  - {fileID: 11400000, guid: 3ecbbf2c4fd6ee9488cb204ab84af111, type: 2}
+  - {fileID: 11400000, guid: 461fbed724c5d7c42829649f5ac3a1f4, type: 2}
+  - {fileID: 11400000, guid: faf5beda9f1605946ab9bc23d7f5c784, type: 2}

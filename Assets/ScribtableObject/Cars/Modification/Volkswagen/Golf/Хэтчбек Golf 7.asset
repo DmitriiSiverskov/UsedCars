@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc6fda361f84159bc41d69da5ef6675, type: 3}
+  m_Name: "\u0425\u044D\u0442\u0447\u0431\u0435\u043A Golf 7"
+  m_EditorClassIdentifier: 
+  _modification:
+  - "e-Golf Electro AT (85.0 \u043A\u0412\u0442)"
+  - "e-Golf Electro AT (100.0 \u043A\u0412\u0442)"
+  - "1.0 MT (85 \u043B.\u0441.)"
+  - "1.0 MT (115 \u043B.\u0441.)"
+  - "1.0 AMT (115 \u043B.\u0441.)"
+  - "1.2 MT (85 \u043B.\u0441.)"
+  - "1.2 MT (105 \u043B.\u0441.)"
+  - "1.2 AMT (105 \u043B.\u0441.)"
+  - "1.2 AMT (110 \u043B.\u0441.)"
+  - "1.2 MT (110 \u043B.\u0441.)"
+  - "TGI BlueMotion 1.4 MT (110 \u043B.\u0441.)"
+  - "TGI BlueMotion 1.4 AMT (110 \u043B.\u0441.)"
+  - "1.4 AMT (110 \u043B.\u0441.)"
+  - "1.4 MT (110 \u043B.\u0441.)"
+  - "1.4 AMT (122 \u043B.\u0441.)"
+  - "1.4 MT (122 \u043B.\u0441.)"
+  - "1.4 MT (125 \u043B.\u0441.)"
+  - "1.4 AMT (125 \u043B.\u0441.)"
+  - "1.4 AMT (140 \u043B.\u0441.)"
+  - "1.4 MT (140 \u043B.\u0441.)"
+  - "1.4 AT (149 \u043B.\u0441.)"
+  - "1.4 AMT (150 \u043B.\u0441.)"
+  - "GTE 1.4hyb AMT (150 \u043B.\u0441.)"
+  - "1.4 MT (150 \u043B.\u0441.)"
+  - "1.4hyb AMT (204 \u043B.\u0441.)"
+  - "1.5 AMT (130 \u043B.\u0441.)"
+  - "1.5 MT (130 \u043B.\u0441.)"
+  - "1.5 MT (150 \u043B.\u0441.)"
+  - "1.5 AMT (150 \u043B.\u0441.)"
+  - "1.6d MT (105 \u043B.\u0441.)"
+  - "1.6d MT (105 \u043B.\u0441.) 4WD"
+  - "1.6d AMT (105 \u043B.\u0441.)"
+  - "1.6 AT (110 \u043B.\u0441.)"
+  - "1.6 MT (110 \u043B.\u0441.)"
+  - "1.6d MT (110 \u043B.\u0441.)"
+  - "1.6d MT (110 \u043B.\u0441.) 4WD"
+  - "1.6d AMT (110 \u043B.\u0441.)"
+  - "1.6d AMT (115 \u043B.\u0441.)"
+  - "1.6d MT (115 \u043B.\u0441.)"
+  - "1.8 AT (170 \u043B.\u0441.)"
+  - "1.8 MT (170 \u043B.\u0441.)"
+  - "2.0d MT (150 \u043B.\u0441.)"
+  - "2.0d AMT (150 \u043B.\u0441.)"
+  - "2.0d MT (150 \u043B.\u0441.) 4WD"
+  - "2.0d MT (184 \u043B.\u0441.)"
+  - "2.0d AMT (184 \u043B.\u0441.)"

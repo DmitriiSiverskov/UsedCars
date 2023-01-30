@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: af9fab30a8134c27a5df5fdf7f0494ec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _arrayItemCarsSo: {fileID: 11400000, guid: 3b5f660272f99a1428b703af63cd87a3, type: 2}
+  - _canvasEnterData: {instanceID: 0}
+  - _content: {instanceID: 0}
+  - _itemButtonCanvasEnterData: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

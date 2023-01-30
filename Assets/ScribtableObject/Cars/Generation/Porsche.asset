@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 085ac9b0298841a681d88812d0906425, type: 3}
+  m_Name: Porsche
+  m_EditorClassIdentifier: 
+  _generation:
+  - {fileID: 11400000, guid: d5f11d59ae1488b4f84395cb334e954c, type: 2}
+  - {fileID: 11400000, guid: 428dc9c16bd6ff44a994d0cf8aaf6c79, type: 2}
+  - {fileID: 11400000, guid: d01684102232bc443b9a7c1a144ac64e, type: 2}
+  - {fileID: 11400000, guid: aceca3e3e00c2e040b64a91caad63871, type: 2}
+  - {fileID: 11400000, guid: b88082846bf48fc48bfcecb0c3f9387e, type: 2}
+  - {fileID: 11400000, guid: 0b806f10370bc6044b07a22b98f69572, type: 2}
+  - {fileID: 11400000, guid: f8399d4a020113b4bbad830a9ca1f7d7, type: 2}

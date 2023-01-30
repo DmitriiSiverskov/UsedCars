@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc6fda361f84159bc41d69da5ef6675, type: 3}
+  m_Name: "\u0412\u043D\u0435\u0434\u043E\u0440\u043E\u0436\u043D\u0438\u043A Cayenne
+    1"
+  m_EditorClassIdentifier: 
+  _modification:
+  - "3.0d AT (240 \u043B.\u0441.) 4WD"
+  - "3.2 AT (250 \u043B.\u0441.) 4WD"
+  - "3.2 MT (250 \u043B.\u0441.) 4WD"
+  - "3.6 MT (290 \u043B.\u0441.) 4WD"
+  - "3.6 AT (290 \u043B.\u0441.) 4WD"
+  - "4.5 AT (340 \u043B.\u0441.) 4WD"
+  - "4.5 MT (340 \u043B.\u0441.) 4WD"
+  - "Turbo 4.5 AT (450 \u043B.\u0441.) 4WD"
+  - "Turbo S 4.5 AT (500 \u043B.\u0441.) 4WD"
+  - "Turbo S 4.5 AT (521 \u043B.\u0441.) 4WD"
+  - "4.8 MT (385 \u043B.\u0441.) 4WD"
+  - "4.8 AT (385 \u043B.\u0441.) 4WD"
+  - "4.8 AT (405 \u043B.\u0441.) 4WD"
+  - "4.8 MT (405 \u043B.\u0441.) 4WD"
+  - "Turbo 4.8 AT (500 \u043B.\u0441.) 4WD"
+  - "Turbo S 4.8 AT (550 \u043B.\u0441.) 4WD"

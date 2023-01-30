@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc6fda361f84159bc41d69da5ef6675, type: 3}
+  m_Name: "\u0412\u043D\u0435\u0434\u043E\u0440\u043E\u0436\u043D\u0438\u043A XC60
+    1"
+  m_EditorClassIdentifier: 
+  _modification:
+  - "2.0d AT (136 \u043B.\u0441.)"
+  - "2.0d MT (136 \u043B.\u0441.)"
+  - "2.0d MT (150 \u043B.\u0441.)"
+  - "2.0d AT (150 \u043B.\u0441.)"
+  - "2.0d MT (163 \u043B.\u0441.)"
+  - "2.0d AT (163 \u043B.\u0441.)"
+  - "2.0d MT (181 \u043B.\u0441.)"
+  - "2.0d AT (181 \u043B.\u0441.)"
+  - "2.0d MT (190 \u043B.\u0441.)"
+  - "2.0d AT (190 \u043B.\u0441.)"
+  - "2.0 AMT (203 \u043B.\u0441.)"
+  - "2.0 AMT (240 \u043B.\u0441.)"
+  - "2.0 AT (245 \u043B.\u0441.) 4WD"
+  - "2.0 AT (245 \u043B.\u0441.)"
+  - "2.0 AT (306 \u043B.\u0441.) 4WD"
+  - "2.0 AT (306 \u043B.\u0441.)"
+  - "2.4d MT (163 \u043B.\u0441.) 4WD"
+  - "2.4d AT (163 \u043B.\u0441.) 4WD"
+  - "2.4d MT (175 \u043B.\u0441.)"
+  - "2.4d AT (175 \u043B.\u0441.)"
+  - "2.4d AT (181 \u043B.\u0441.) 4WD"
+  - "2.4d MT (181 \u043B.\u0441.) 4WD"
+  - "2.4d MT (185 \u043B.\u0441.) 4WD"
+  - "2.4d AT (185 \u043B.\u0441.) 4WD"
+  - "2.4d MT (190 \u043B.\u0441.) 4WD"
+  - "2.4d AT (190 \u043B.\u0441.) 4WD"
+  - "2.4d MT (205 \u043B.\u0441.) 4WD"
+  - "2.4d AT (205 \u043B.\u0441.) 4WD"
+  - "2.4d AT (215 \u043B.\u0441.) 4WD"
+  - "2.4d MT (215 \u043B.\u0441.) 4WD"
+  - "2.4d AT (220 \u043B.\u0441.) 4WD"
+  - "2.4d MT (220 \u043B.\u0441.) 4WD"
+  - "2.5 AT (249 \u043B.\u0441.) 4WD"
+  - "2.5 AT (254 \u043B.\u0441.) 4WD"
+  - "3.0 AT (286 \u043B.\u0441.) 4WD"
+  - "3.0 AT (304 \u043B.\u0441.) 4WD"
+  - "3.2 AT (238 \u043B.\u0441.) 4WD"
+  - "3.2 AT (243 \u043B.\u0441.) 4WD"
